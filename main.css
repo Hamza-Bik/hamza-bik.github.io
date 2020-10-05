@@ -79,7 +79,7 @@ input:focus{
   }
   
 .m-b-md {
-    margin-left: 100px;
+    margin: 200px 0 0 200px;
 }
 
 .links>a {
