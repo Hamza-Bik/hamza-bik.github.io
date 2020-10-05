@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/Hamza-Bik/Hamza-Bik/happycode.svg)](http://hits.dwyl.com/Hamza-Bik/Hamza-Bik/happycode)
+[![HitCount](http://hits.dwyl.com/Hamza-Bik/happycode.svg)](http://hits.dwyl.com/Hamza-Bik/happycode)
 
 
 # Hi Everyone!  <img src="https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif" align = left width="60" height="60">
