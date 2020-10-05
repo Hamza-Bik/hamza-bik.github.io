@@ -73,8 +73,7 @@ input:focus{
     text-transform: uppercase;
     border-bottom: 3px solid;
     padding: 12px 0;
-    /* color: #360f58; */
-    color: #212529;
+    color: #080101;
   }
   
 .m-b-md {
@@ -82,7 +81,7 @@ input:focus{
 }
 
 .links>a {
-    color: #636b6f;
+    color: #080101;
     padding: 0 25px;
     font-size: 13px;
     font-weight: 600;
