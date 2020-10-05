@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/Hamza-Bik/small_apps_tools./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/Hamza-Bik/happycode/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1 HI MY NAME IS HAMZA 
+## Header 2 AND I'M A WEB DEVELOPER
+### Header 3 AT MARRAKECH
 
 - Bulleted
 - List
@@ -21,9 +21,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `print("I'm so happy")` text **YEAY**
 
-[Link](url) and ![Image](src)
+[Link](https://www.youtube.com/channel/UCS0TY018ZeafpCbSTekSz1g) and ![Image](https://unsplash.com/photos/i8QdtA3dcNc) (https://images.unsplash.com/photo-1579525582531-4b687979c48c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1533&q=80)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
