@@ -1,0 +1,121 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+
+html,
+body {
+    /* background-color: #f8fafc !important; */
+
+    /* background: linear-gradient(to left, rgb(171, 186, 171), rgb(255, 255, 255)); */
+    /* background:linear-gradient(to right, #abbaab, #ffffff);  */
+    /* background: linear-gradient(to right, rgb(112, 225, 245), rgb(255, 209, 148)); */
+    /* background: linear-gradient(to right, rgb(123 88 89), rgb(118 123 160)); */
+    /* background: linear-gradient(to right, rgb(120, 2, 6), rgb(6, 17, 97)); */
+    background: linear-gradient(to right, rgb(29, 67, 80), rgb(164, 57, 49));
+    /* background:linear-gradient(to right, rgb(26, 42, 108), rgb(178, 31, 31), rgb(253, 187, 45)); */
+    /*background: linear-gradient(to right, #ece9e6, #fff);*//*id=2*/
+   /* background: linear-gradient(to right, #dae2f8, #d6a4a4);*//*id=1*/
+    color: #212529;
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 400;
+    height: 100vh;
+    margin: 0;
+    /* background-image: url("/img/back.png");    background-repeat: no-repeat; */
+}
+form input{
+    /*background: linear-gradient(to right, #dae1f6 100%, #dae1f6 0%);*//*id=1*/
+    /*background: linear-gradient(to right, #f8fafc 100%, #DEDEDE 0%);*//*id=2*/
+    background-color:rgba(0,0,0,0) !important;
+    border-color:#212529 !important;
+
+}
+table {
+    border-collapse: collapse;
+    border-style: hidden;
+}
+th, td {
+    border: 2px solid black !important;
+  }
+input:focus{
+    /* background-image: linear-gradient(bottom, #FFFFFF 5%, #DEDEDE 100%);
+    background-image: -o-linear-gradient(bottom, #FFFFFF 5%, #DEDEDE 100%);
+    background-image: -moz-linear-gradient(bottom, #FFFFFF 5%, #DEDEDE 100%);
+    background-image: -webkit-linear-gradient(bottom, #FFFFFF 5%, #DEDEDE 100%);
+    background-image: -ms-linear-gradient(bottom, #FFFFFF 5%, #DEDEDE 100%); */
+    
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: baseline;
+    /* align-items: center; */
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 50px;
+    text-transform: uppercase;
+    border-bottom: 3px solid;
+    padding: 12px 0;
+    /* color: #360f58; */
+    color: #212529;
+  }
+  
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.links>a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.looped {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    width: 20em; 
+    /* margin-bottom: 20px; */
+    
+}
+
+.looped:last-of-type{
+    margin-bottom: 30px;
+}
+footer{
+    background: #eee;
+    padding: 12px;
+    text-align: center;
+}
+
+
+
+
+
+/*!
+ * Bootstrap v4.1.3 (https://getbootstrap.com/)
+ * Copyright 2011-2018 The Bootstrap Authors
+ * Copyright 2011-2018 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ 
