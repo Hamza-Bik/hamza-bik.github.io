@@ -1,2 +1,1 @@
-# happycode
-Simple WEBSITE Portfolio :)
+# Simple WEBSITE Portfolio :)
